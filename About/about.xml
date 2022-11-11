@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Harvest Everything CHS</name>
+    <author>tinygrox</author>
+    <supportedVersions>
+        <li>1.4</li>
+    </supportedVersions>
+    <packageId>tinygrox.CHS.HarvestEverything</packageId>
+    <description>Harvest Everything的中文翻译。 rnm这个xpath我真是日了狗了。</description>
+    <loadAfter>
+        <li>Ogliss.Ykara.HarvestEverything</li>
+    </loadAfter>
+</ModMetaData>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- Brain transplant -->
+    <Brain.label>移植大脑</Brain.label>
+    <!-- A transplanted Brain. -->
+    <Brain.description>移植大脑。</Brain.description>
+    <!-- mild rejection -->
+    <Brain.stages.mild_rejection.label>轻微排异</Brain.stages.mild_rejection.label>
+    <!-- moderate rejection -->
+    <Brain.stages.moderate_rejection.label>中度排异</Brain.stages.moderate_rejection.label>
+    <!-- serious rejection -->
+    <Brain.stages.serious_rejection.label>严重排异</Brain.stages.serious_rejection.label>
+    <!-- deadly rejection -->
+    <Brain.stages.deadly_rejection.label>致命排异</Brain.stages.deadly_rejection.label>
+    
+    <!-- Jaw transplant -->
+    <Jaw.label>移植下颌</Jaw.label>
+    <!-- A transplanted Jaw. -->
+    <Jaw.description>移植下颌</Jaw.description>
+    <!-- mild rejection -->
+    <Jaw.stages.mild_rejection.label>轻微排异</Jaw.stages.mild_rejection.label>
+    <!-- moderate rejection -->
+    <Jaw.stages.moderate_rejection.label>中度排异</Jaw.stages.moderate_rejection.label>
+    <!-- serious rejection -->
+    <Jaw.stages.serious_rejection.label>严重排异</Jaw.stages.serious_rejection.label>
+    <!-- deadly rejection -->
+    <Jaw.stages.deadly_rejection.label>致命排异</Jaw.stages.deadly_rejection.label>
+    
+    <!-- Spine transplant -->
+    <Spine.label>移植脊椎</Spine.label>
+    <!-- A transplanted Spine. -->
+    <Spine.description>移植脊椎。</Spine.description>
+    <!-- mild rejection -->
+    <Spine.stages.mild_rejection.label>轻微排异</Spine.stages.mild_rejection.label>
+    <!-- moderate rejection -->
+    <Spine.stages.moderate_rejection.label>中度排异</Spine.stages.moderate_rejection.label>
+    <!-- serious rejection -->
+    <Spine.stages.serious_rejection.label>严重排异</Spine.stages.serious_rejection.label>
+    <!-- deadly rejection -->
+    <Spine.stages.deadly_rejection.label>致命排异</Spine.stages.deadly_rejection.label>
+    
+    <!-- Eye transplant -->
+    <Eye.label>移植眼睛</Eye.label>
+    <!-- A transplanted Eye. -->
+    <Eye.description>移植眼睛</Eye.description>
+    <!-- mild rejection -->
+    <Eye.stages.mild_rejection.label>轻微排异</Eye.stages.mild_rejection.label>
+    <!-- moderate rejection -->
+    <Eye.stages.moderate_rejection.label>中度排异</Eye.stages.moderate_rejection.label>
+    <!-- serious rejection -->
+    <Eye.stages.serious_rejection.label>严重排异</Eye.stages.serious_rejection.label>
+    <!-- deadly rejection -->
+    <Eye.stages.deadly_rejection.label>致命排异</Eye.stages.deadly_rejection.label>
+    
+    <!-- Nose transplant -->
+    <Nose.label>移植鼻</Nose.label>
+    <!-- A transplanted Nose. -->
+    <Nose.description>移植鼻子。</Nose.description>
+    <!-- mild rejection -->
+    <Nose.stages.mild_rejection.label>轻微排异</Nose.stages.mild_rejection.label>
+    <!-- moderate rejection -->
+    <Nose.stages.moderate_rejection.label>中度排异</Nose.stages.moderate_rejection.label>
+    <!-- serious rejection -->
+    <Nose.stages.serious_rejection.label>严重排异</Nose.stages.serious_rejection.label>
+    <!-- deadly rejection -->
+    <Nose.stages.deadly_rejection.label>致命排异</Nose.stages.deadly_rejection.label>
+    
+    <!-- Ear transplant -->
+    <Ear.label>移植耳朵</Ear.label>
+    <!-- A transplanted Ear. -->
+    <Ear.description>移植耳朵。</Ear.description>
+    <!-- mild rejection -->
+    <Ear.stages.mild_rejection.label>轻微排异</Ear.stages.mild_rejection.label>
+    <!-- moderate rejection -->
+    <Ear.stages.moderate_rejection.label>中度排异</Ear.stages.moderate_rejection.label>
+    <!-- serious rejection -->
+    <Ear.stages.serious_rejection.label>严重排异</Ear.stages.serious_rejection.label>
+    <!-- deadly rejection -->
+    <Ear.stages.deadly_rejection.label>致命排异</Ear.stages.deadly_rejection.label>
+    
+    <!-- Arm transplant -->
+    <Shoulder.label>移植肩</Shoulder.label>
+    <!-- A transplanted Arm. -->
+    <Shoulder.description>移植肩膀。</Shoulder.description>
+    <!-- mild rejection -->
+    <Shoulder.stages.mild_rejection.label>轻微排异</Shoulder.stages.mild_rejection.label>
+    <!-- moderate rejection -->
+    <Shoulder.stages.moderate_rejection.label>中度排异</Shoulder.stages.moderate_rejection.label>
+    <!-- serious rejection -->
+    <Shoulder.stages.serious_rejection.label>严重排异</Shoulder.stages.serious_rejection.label>
+    <!-- deadly rejection -->
+    <Shoulder.stages.deadly_rejection.label>致命排异</Shoulder.stages.deadly_rejection.label>
+    
+    <!-- Hand transplant -->
+    <Hand.label>移植手</Hand.label>
+    <!-- A transplanted Hand. -->
+    <Hand.description>移植手</Hand.description>
+    <!-- mild rejection -->
+    <Hand.stages.mild_rejection.label>轻微排异</Hand.stages.mild_rejection.label>
+    <!-- moderate rejection -->
+    <Hand.stages.moderate_rejection.label>中度排异</Hand.stages.moderate_rejection.label>
+    <!-- serious rejection -->
+    <Hand.stages.serious_rejection.label>严重排异</Hand.stages.serious_rejection.label>
+    <!-- deadly rejection -->
+    <Hand.stages.deadly_rejection.label>致命排异</Hand.stages.deadly_rejection.label>
+    
+    <!-- Leg transplant -->
+    <Leg.label>移植腿</Leg.label>
+    <!-- A transplanted Leg. -->
+    <Leg.description>移植腿</Leg.description>
+    <!-- mild rejection -->
+    <Leg.stages.mild_rejection.label>轻微排异</Leg.stages.mild_rejection.label>
+    <!-- moderate rejection -->
+    <Leg.stages.moderate_rejection.label>中度排异</Leg.stages.moderate_rejection.label>
+    <!-- serious rejection -->
+    <Leg.stages.serious_rejection.label>严重排异</Leg.stages.serious_rejection.label>
+    <!-- deadly rejection -->
+    <Leg.stages.deadly_rejection.label>致命排异</Leg.stages.deadly_rejection.label>
+    
+    <!-- Foot transplant -->
+    <Foot.label>移植足</Foot.label>
+    <!-- A transplanted Foot. -->
+    <Foot.description>移植足</Foot.description>
+    <!-- mild rejection -->
+    <Foot.stages.mild_rejection.label>轻微排异</Foot.stages.mild_rejection.label>
+    <!-- moderate rejection -->
+    <Foot.stages.moderate_rejection.label>中度排异</Foot.stages.moderate_rejection.label>
+    <!-- serious rejection -->
+    <Foot.stages.serious_rejection.label>严重排异</Foot.stages.serious_rejection.label>
+    <!-- deadly rejection -->
+    <Foot.stages.deadly_rejection.label>致命排异</Foot.stages.deadly_rejection.label>
+
+</LanguageData>
