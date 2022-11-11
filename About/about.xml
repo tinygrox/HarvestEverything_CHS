@@ -6,7 +6,20 @@
         <li>1.4</li>
     </supportedVersions>
     <packageId>tinygrox.CHS.HarvestEverything</packageId>
-    <description>Harvest Everything的中文翻译。 rnm这个xpath我真是日了狗了。</description>
+    <description>Harvest Everything的简体中文翻译。
+        \n- 翻译了手术名称。
+        \n- 翻译了拆下来的器官物品。
+        \n- 涉及到 RBSE 的内容也做了适配，RBSE 的 HardCore Edition不知道能不能用，我不用的。
+        \n- 当你既装了 RBSE 又装了The Birds and the Bees，你会发现涉及到xx器官的地方还是英文，这很正常，因为我没做翻译。
+        \n最后，这个xpath我真是日了狗了，我将有段时间不会再碰了。
+    </description>
+    <modDependencies>
+        <li>
+            <packageId>Ogliss.Ykara.HarvestEverything</packageId>
+            <displayName>Harvest Everything!</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2007485974</steamWorkshopUrl>
+        </li>
+    </modDependencies>
     <loadAfter>
         <li>Ogliss.Ykara.HarvestEverything</li>
     </loadAfter>
