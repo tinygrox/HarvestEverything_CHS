@@ -11,7 +11,9 @@
         \n- 翻译了拆下来的器官物品。
         \n- 涉及到 RBSE 的内容也做了适配，RBSE 的 HardCore Edition不知道能不能用，我不用的。
         \n- 当你既装了 RBSE 又装了The Birds and the Bees，你会发现涉及到xx器官的地方还是英文，这很正常，因为我没做翻译。
-        \n最后，这个xpath我真是日了狗了，我将有段时间不会再碰了。
+        \n 最后，这个xpath我真是日了狗了，我将有段时间不会再碰了。
+        \n 这个翻译我上传到github了:https://github.com/tinygrox/HarvestEverything_CHS
+        \n 想研究的可以研究下。
     </description>
     <modDependencies>
         <li>
