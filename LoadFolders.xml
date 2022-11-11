@@ -2,5 +2,8 @@
 <loadFolders>
   <v1.4>
     <li IfModActive="Ogliss.Ykara.HarvestEverything">1.4</li>
+    <li IfModActive="Ogliss.Ykara.HarvestEverything">Common</li>
+    <li IfModActive="Rah.RBSE">Common</li>
+    <li IfModActive="Rah.RBSE">RBSE</li>
   </v1.4>
 </loadFolders>
