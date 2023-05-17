@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<LanguageData>
-    <!-- harvest everything-->
-    <HarvestEverything.label>摘取所有部件</HarvestEverything.label>
-    <HarvestEverything.description>麻醉生物然后摘取所有的可用器官。</HarvestEverything.description>
-</LanguageData>
